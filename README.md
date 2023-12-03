@@ -17,6 +17,16 @@ These instructions will get you a copy of the project up and running on your loc
 3. Run the following command to clone the repository: ``git clone https://github.com/[username]/math354-anki.git``
 Replace `[username]` with the username of the repository owner.
 
+### Directly Downloading the Anki File
+
+If you prefer to directly download the Anki file instead of cloning the entire repository, follow these steps:
+
+1. Navigate to the main page of the repository on GitHub.
+2. Find the Anki file (with the `.apkg` extension) in the list of files.
+3. Click on the file name.
+4. You will be taken to a new page. Click on the `Download` icon button to download the file.
+5. Once downloaded, you can import it into Anki by opening the Anki application and clicking on `File > Import...` and selecting the downloaded `.apkg` file.
+
 ### Accessing the Anki File
 
 1. Navigate to the cloned repository's directory.
