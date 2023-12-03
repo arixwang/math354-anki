@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- Git installed on your local machine. If not, you can download it from [here](https://git-scm.com/downloads).
+- Git installed on your local machine. If not, you can download it from [here](https://git-scm.com/downloads). Only needed for cloning the repository. 
 - Anki installed on your local machine. If not, you can download it from [here](https://apps.ankiweb.net/).
 
 ### Cloning the Repository
